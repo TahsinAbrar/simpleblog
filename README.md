@@ -20,16 +20,16 @@ Details:
 Dummy User:
 ===========
 
-user email: test@email.com
+`user email:` test@email.com
 
-password: test
+`password:` test
 
 Dummy Admin:
 ============
 
-Admin username: test
+`Admin username:` test
 
-password: test
+`password:` test
 
 **Admin Panel is not developed yet**
 
