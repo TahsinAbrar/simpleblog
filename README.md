@@ -31,6 +31,8 @@ Dummy Admin:
 
 `password:` test
 
+Panel Link: http://localhost/simpleblog/admin_login
+
 **Admin Panel is not developed yet**
 
 Thank you.
